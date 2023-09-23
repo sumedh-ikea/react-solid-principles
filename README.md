@@ -8,7 +8,6 @@
 - ISP: Interface Segregation Principle
 - DIP: Dependency Inversion Principle
 
-All the principles are explained on CoderOne's youtube channel: https://youtu.be/MSq_DCRxOxw
 
 ## Code
 
